@@ -1,0 +1,17 @@
+/* Editor styles for Saayeh (loaded inside the block editor canvas). */
+@font-face {
+	font-family: "Vazirmatn";
+	src: url("../fonts/Vazirmatn-Variable.woff2") format("woff2");
+	font-weight: 100 900;
+	font-display: swap;
+}
+body, .editor-styles-wrapper {
+	font-family: "Vazirmatn", system-ui, sans-serif;
+	background: #F6F3EE;
+	color: #1C1A17;
+	font-size: 16px;
+	line-height: 2;
+}
+.editor-styles-wrapper h1, .editor-styles-wrapper h2, .editor-styles-wrapper h3 { font-weight: 500; line-height: 1.35; }
+.editor-styles-wrapper a { color: #1C1A17; }
+.editor-styles-wrapper blockquote { border-inline-start: 2px solid #B39B7A; padding-inline-start: 24px; }

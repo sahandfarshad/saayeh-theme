@@ -1,0 +1,626 @@
+{
+ "version": 1,
+ "theme": "saayeh",
+ "requires": [
+  "woocommerce"
+ ],
+ "images": [
+  {
+   "id": "hero",
+   "file": "images/hero.jpg",
+   "alt": "مدل با پالتوی زمستانی سایه در فضای آرام",
+   "title": "کالکشن زمستان سایه"
+  },
+  {
+   "id": "coat",
+   "file": "images/p-coat.jpg",
+   "alt": "پالتو پشمی بلند کاراملی",
+   "title": "پالتو پشمی بلند"
+  },
+  {
+   "id": "knit",
+   "file": "images/p-knit.jpg",
+   "alt": "بافت یقه‌گرد دست‌باف کرم",
+   "title": "بافت یقه‌گرد دست‌باف"
+  },
+  {
+   "id": "trousers",
+   "file": "images/p-trousers.jpg",
+   "alt": "شلوار پارچه‌ای گشاد مشکی",
+   "title": "شلوار پارچه‌ای گشاد"
+  },
+  {
+   "id": "shirt",
+   "file": "images/p-shirt.jpg",
+   "alt": "پیراهن نخی اورسایز سفید",
+   "title": "پیراهن نخی اورسایز"
+  },
+  {
+   "id": "jacket",
+   "file": "images/p-jacket.jpg",
+   "alt": "کاپشن پافر کوتاه زیتونی",
+   "title": "کاپشن پافر کوتاه"
+  },
+  {
+   "id": "bag",
+   "file": "images/p-bag.jpg",
+   "alt": "کیف توت چرمی عسلی",
+   "title": "کیف توت چرمی"
+  }
+ ],
+ "product_attributes": [
+  {
+   "slug": "size",
+   "name": "سایز",
+   "terms": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "36",
+    "38",
+    "40",
+    "42"
+   ]
+  },
+  {
+   "slug": "color",
+   "name": "رنگ",
+   "terms": [
+    {
+     "name": "کاراملی",
+     "slug": "caramel",
+     "hex": "#B07A4F"
+    },
+    {
+     "name": "مشکی",
+     "slug": "black",
+     "hex": "#1C1A17"
+    },
+    {
+     "name": "کرم",
+     "slug": "cream",
+     "hex": "#E6DAC3"
+    },
+    {
+     "name": "طوسی",
+     "slug": "gray",
+     "hex": "#8E8A84"
+    },
+    {
+     "name": "سرمه‌ای",
+     "slug": "navy",
+     "hex": "#283245"
+    },
+    {
+     "name": "سفید",
+     "slug": "white",
+     "hex": "#F5F3EE"
+    },
+    {
+     "name": "آبی روشن",
+     "slug": "light-blue",
+     "hex": "#A9C2DA"
+    },
+    {
+     "name": "زیتونی",
+     "slug": "olive",
+     "hex": "#6B6A3C"
+    },
+    {
+     "name": "عسلی",
+     "slug": "honey",
+     "hex": "#B8813F"
+    },
+    {
+     "name": "قهوه‌ای سوخته",
+     "slug": "burnt-brown",
+     "hex": "#5B3A26"
+    }
+   ]
+  }
+ ],
+ "product_categories": [
+  {
+   "slug": "coats",
+   "name": "پالتو و کاپشن",
+   "image": "coat",
+   "description": "پالتوها و کاپشن‌های گرم و ساده برای روزهای سرد."
+  },
+  {
+   "slug": "knitwear",
+   "name": "بافت",
+   "image": "knit",
+   "description": "بافت‌های نرم از پشم مرینو، بافته‌شده با حوصله."
+  },
+  {
+   "slug": "trousers",
+   "name": "شلوار",
+   "image": "trousers",
+   "description": "شلوارهای خوش‌افت برای هر روز، رسمی یا راحت."
+  },
+  {
+   "slug": "shirts",
+   "name": "پیراهن",
+   "image": "shirt",
+   "description": "پیراهن‌های نخی با برش‌های آرام و ماندگار."
+  },
+  {
+   "slug": "accessories",
+   "name": "اکسسوری",
+   "image": "bag",
+   "description": "کیف و اکسسوری‌های چرمی که با هر لباسی هماهنگ‌اند."
+  }
+ ],
+ "products": [
+  {
+   "slug": "long-wool-coat",
+   "name": "پالتو پشمی بلند",
+   "type": "variable",
+   "regular_price": 4850000,
+   "sale_price": null,
+   "short_description": "پالتوی بلند از پشم نرم با برش صاف و یقه‌ی کلاسیک، برای سردترین روزهای زمستان.",
+   "description": "<p>این پالتو با ترکیب ۷۰٪ پشم و ۳۰٪ پلی‌آمید دوخته شده تا هم گرم باشد و هم فرم خود را سال‌ها حفظ کند. برش صاف و قد بلند آن، روی هر لباسی از بافت ضخیم تا پیراهن ساده، خوش می‌نشیند.</p><p>آستر داخلی از ویسکوز نرم است و دو جیب پهلو و یک جیب داخلی دکمه‌دار دارد.</p><ul><li>جنس رویه: ۷۰٪ پشم، ۳۰٪ پلی‌آمید</li><li>آستر: ۱۰۰٪ ویسکوز</li><li>قد: حدود ۱۱۰ سانتی‌متر در سایز M</li><li>شست‌وشو: فقط خشک‌شویی</li></ul>",
+   "categories": [
+    "coats"
+   ],
+   "tags": [
+    "زمستان",
+    "پشم"
+   ],
+   "image": "coat",
+   "gallery": [],
+   "featured": true,
+   "badge": "جدید",
+   "attributes": {
+    "size": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "color": [
+     "caramel",
+     "black"
+    ]
+   },
+   "out_of_stock": [
+    {
+     "size": "XL"
+    }
+   ],
+   "sku": "SY-COAT-01"
+  },
+  {
+   "slug": "hand-knit-crew-sweater",
+   "name": "بافت یقه‌گرد دست‌باف",
+   "type": "variable",
+   "regular_price": 2400000,
+   "sale_price": 1980000,
+   "short_description": "بافت دست‌باف با نقش طنابی و یقه‌ی گرد، گرم و سبک برای لایه‌پوشی.",
+   "description": "<p>هر کدام از این بافت‌ها را بافنده‌های محلی با نخ پشم مرینو و طی چند روز می‌بافند. نقش طنابی روی سینه و آستین‌ها، بافت را از یک لباس ساده به تکه‌ای ماندگار تبدیل می‌کند.</p><p>مرینو پشمی نرم و بدون خارش است و با هر بار پوشیدن نرم‌تر می‌شود.</p><ul><li>جنس: ۱۰۰٪ پشم مرینو</li><li>بافت دستی، نقش طنابی</li><li>شست‌وشو: دستی با آب سرد، خشک کردن روی سطح صاف</li></ul>",
+   "categories": [
+    "knitwear"
+   ],
+   "tags": [
+    "دست‌باف",
+    "مرینو"
+   ],
+   "image": "knit",
+   "gallery": [],
+   "featured": true,
+   "badge": "",
+   "attributes": {
+    "size": [
+     "S",
+     "M",
+     "L"
+    ],
+    "color": [
+     "cream",
+     "gray"
+    ]
+   },
+   "out_of_stock": [],
+   "sku": "SY-KNIT-01"
+  },
+  {
+   "slug": "wide-leg-trousers",
+   "name": "شلوار پارچه‌ای گشاد",
+   "type": "variable",
+   "regular_price": 1650000,
+   "sale_price": null,
+   "short_description": "شلوار گشاد با فاق بلند و پارچه‌ی خوش‌افت، رسمی و راحت در یک‌جا.",
+   "description": "<p>پارچه‌ی کرپ این شلوار وزن مناسبی دارد و به‌خوبی می‌ریزد؛ برای همین هم با کفش کتانی خوب است و هم با کفش رسمی. کمر دارای کش پنهان در پشت است تا در طول روز راحت باشید.</p><ul><li>جنس: ۶۵٪ پلی‌استر، ۳۰٪ ویسکوز، ۵٪ الاستان</li><li>فاق بلند، دو پیلی جلو</li><li>شست‌وشو: ماشین با آب ۳۰ درجه</li></ul>",
+   "categories": [
+    "trousers"
+   ],
+   "tags": [
+    "رسمی"
+   ],
+   "image": "trousers",
+   "gallery": [],
+   "featured": false,
+   "badge": "",
+   "attributes": {
+    "size": [
+     "36",
+     "38",
+     "40",
+     "42"
+    ],
+    "color": [
+     "black",
+     "navy"
+    ]
+   },
+   "out_of_stock": [],
+   "sku": "SY-TRS-01"
+  },
+  {
+   "slug": "oversized-cotton-shirt",
+   "name": "پیراهن نخی اورسایز",
+   "type": "variable",
+   "regular_price": 1290000,
+   "sale_price": null,
+   "short_description": "پیراهن اورسایز از نخ صددرصد، با یقه‌ی ساده و آستین‌های کمی افتاده.",
+   "description": "<p>پیراهنی که هم زیر بافت جا می‌شود و هم به‌تنهایی با شلوار گشاد خوش‌فرم است. پارچه‌ی پاپلین نخی تنفس‌پذیر است و با هر شست‌وشو نرم‌تر می‌شود.</p><ul><li>جنس: ۱۰۰٪ پنبه (پاپلین)</li><li>برش اورسایز، سرشانه‌ی افتاده</li><li>شست‌وشو: ماشین با آب ۴۰ درجه، اتوی متوسط</li></ul>",
+   "categories": [
+    "shirts"
+   ],
+   "tags": [
+    "نخی",
+    "تابستان"
+   ],
+   "image": "shirt",
+   "gallery": [],
+   "featured": false,
+   "badge": "",
+   "attributes": {
+    "size": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "color": [
+     "white",
+     "light-blue"
+    ]
+   },
+   "out_of_stock": [],
+   "sku": "SY-SHT-01"
+  },
+  {
+   "slug": "cropped-puffer-jacket",
+   "name": "کاپشن پافر کوتاه",
+   "type": "variable",
+   "regular_price": 3750000,
+   "sale_price": null,
+   "short_description": "پافر کوتاه و سبک با عایق گرم و رویه‌ی مات، مناسب رفت‌وآمد شهری.",
+   "description": "<p>رویه‌ی مات و ضدآب این کاپشن، در برف و باران سبک شهری را حفظ می‌کند. لایه‌ی عایق مصنوعی، گرمایی هم‌اندازه‌ی پر دارد اما سبک‌تر است و با شست‌وشو جمع نمی‌شود.</p><ul><li>رویه: نایلون مات ضدآب</li><li>عایق: الیاف بازیافتی</li><li>یقه‌ی ایستاده و کلاه جداشدنی</li><li>شست‌وشو: ماشین با آب سرد، دور ملایم</li></ul>",
+   "categories": [
+    "coats"
+   ],
+   "tags": [
+    "زمستان"
+   ],
+   "image": "jacket",
+   "gallery": [],
+   "featured": true,
+   "badge": "پرفروش",
+   "attributes": {
+    "size": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "color": [
+     "olive",
+     "black"
+    ]
+   },
+   "out_of_stock": [],
+   "sku": "SY-JKT-01"
+  },
+  {
+   "slug": "leather-tote-bag",
+   "name": "کیف توت چرمی",
+   "type": "simple",
+   "regular_price": 2900000,
+   "sale_price": null,
+   "short_description": "کیف توت از چرم طبیعی با جای کافی برای لپ‌تاپ و وسایل روزانه.",
+   "description": "<p>این کیف از چرم گاوی طبیعی و با دوخت دستی ساخته شده است. جادار است، یک جیب داخلی زیپ‌دار دارد و لپ‌تاپ ۱۴ اینچی به‌راحتی در آن جا می‌شود. چرم طبیعی با گذر زمان رنگ‌وروی گرم‌تری پیدا می‌کند.</p><ul><li>جنس: چرم گاوی طبیعی</li><li>ابعاد: ۴۰ × ۳۲ × ۱۲ سانتی‌متر</li><li>دسته‌ها: ۶۰ سانتی‌متر، مناسب روی شانه</li></ul>",
+   "categories": [
+    "accessories"
+   ],
+   "tags": [
+    "چرم"
+   ],
+   "image": "bag",
+   "gallery": [],
+   "featured": true,
+   "badge": "",
+   "attributes": {
+    "color": [
+     "honey",
+     "burnt-brown"
+    ]
+   },
+   "out_of_stock": [],
+   "sku": "SY-BAG-01"
+  }
+ ],
+ "pages": [
+  {
+   "slug": "home",
+   "title": "خانه",
+   "content": "",
+   "role": "front",
+   "template": ""
+  },
+  {
+   "slug": "shop",
+   "title": "فروشگاه",
+   "content": "",
+   "role": "shop",
+   "template": ""
+  },
+  {
+   "slug": "cart",
+   "title": "سبد خرید",
+   "content": "<!-- wp:shortcode -->\n[woocommerce_cart]\n<!-- /wp:shortcode -->",
+   "role": "cart",
+   "template": ""
+  },
+  {
+   "slug": "checkout",
+   "title": "تسویه حساب",
+   "content": "<!-- wp:shortcode -->\n[woocommerce_checkout]\n<!-- /wp:shortcode -->",
+   "role": "checkout",
+   "template": ""
+  },
+  {
+   "slug": "my-account",
+   "title": "حساب کاربری",
+   "content": "<!-- wp:shortcode -->\n[woocommerce_my_account]\n<!-- /wp:shortcode -->",
+   "role": "myaccount",
+   "template": ""
+  },
+  {
+   "slug": "wishlist",
+   "title": "علاقه‌مندی‌ها",
+   "content": "<!-- wp:shortcode -->\n[saayeh_wishlist]\n<!-- /wp:shortcode -->",
+   "role": "",
+   "template": "page-templates/template-wishlist.php"
+  },
+  {
+   "slug": "about",
+   "title": "درباره ما",
+   "role": "",
+   "template": "",
+   "content": "<!-- wp:paragraph -->\n<p><strong>کمتر، اما بهتر.</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>سایه در سال ۱۳۹۸ در یک کارگاه کوچک در تهران شروع شد، با این باور که کمد لباس خوب از چند تکه‌ی درست ساخته می‌شود، نه از خریدهای بی‌پایان. ما پارچه‌های طبیعی را از تأمین‌کننده‌های مطمئن می‌خریم، با تولیدکننده‌های محلی کار می‌کنیم و هر طرح را آن‌قدر ساده نگه می‌داریم که سال‌ها کهنه نشود.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"{{image_url:hero}}\" alt=\"فضای کارگاه و کالکشن زمستان سایه\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\">آنچه برایمان مهم است</h2>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>پارچه‌ی طبیعی:</strong> پشم، پنبه و چرم؛ موادی که نفس می‌کشند و دوام دارند.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li><strong>تولید محلی:</strong> بیشتر لباس‌های ما در کارگاه‌های کوچک ایرانی دوخته می‌شوند.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li><strong>طراحی ماندگار:</strong> رنگ‌های آرام و برش‌هایی که فصل‌به‌فصل عوض نمی‌شوند.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>سایه برای کسانی است که آرامش را در جزئیات می‌بینند. ممنون که همراه ما هستید.</p>\n<!-- /wp:paragraph -->"
+  },
+  {
+   "slug": "contact",
+   "title": "تماس با ما",
+   "role": "",
+   "template": "",
+   "content": "<!-- wp:paragraph -->\n<p>سؤالی درباره‌ی سفارش، سایز یا مرجوعی دارید؟ فرم زیر را پر کنید؛ معمولاً در کمتر از یک روز کاری پاسخ می‌دهیم.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>تلفن پشتیبانی:</strong> ۰۲۱-۰۰۰۰۰۰۰۰ (هر روز، ۹ تا ۲۱)</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li><strong>ایمیل:</strong> hello@example.com</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li><strong>نشانی کارگاه:</strong> تهران، خیابان نمونه، پلاک ۰</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:shortcode -->\n[saayeh_contact]\n<!-- /wp:shortcode -->"
+  },
+  {
+   "slug": "faq",
+   "title": "سوالات متداول",
+   "role": "",
+   "template": "",
+   "content": "<!-- wp:paragraph -->\n<p>پاسخ پرتکرارترین پرسش‌ها را این‌جا جمع کرده‌ایم. اگر جوابتان را پیدا نکردید، از صفحه‌ی تماس با ما بپرسید.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:details -->\n<details class=\"wp-block-details\"><summary>ارسال سفارش چقدر طول می‌کشد؟</summary><!-- wp:paragraph -->\n<p>سفارش‌ها با پست پیشتاز در ۲ تا ۴ روز کاری به سراسر ایران می‌رسند. در تهران می‌توانید پیک را انتخاب کنید تا همان روز یا روز بعد تحویل بگیرید.</p>\n<!-- /wp:paragraph --></details>\n<!-- /wp:details -->\n\n<!-- wp:details -->\n<details class=\"wp-block-details\"><summary>هزینه‌ی ارسال چقدر است؟</summary><!-- wp:paragraph -->\n<p>هزینه‌ی پست پیشتاز ۹۰ هزار تومان و پیک تهران ۱۵۰ هزار تومان است. برای خریدهای بالای ۳ میلیون تومان، ارسال پستی رایگان است.</p>\n<!-- /wp:paragraph --></details>\n<!-- /wp:details -->\n\n<!-- wp:details -->\n<details class=\"wp-block-details\"><summary>چطور سایز مناسب را انتخاب کنم؟</summary><!-- wp:paragraph -->\n<p>در صفحه‌ی هر محصول، دکمه‌ی «راهنمای سایز» جدول اندازه‌ها را نشان می‌دهد. اگر بین دو سایز هستید، سایز بزرگ‌تر را انتخاب کنید.</p>\n<!-- /wp:paragraph --></details>\n<!-- /wp:details -->\n\n<!-- wp:details -->\n<details class=\"wp-block-details\"><summary>شرایط مرجوعی و تعویض چیست؟</summary><!-- wp:paragraph -->\n<p>تا ۷ روز پس از تحویل، اگر لباس پوشیده یا شسته نشده باشد و برچسب آن سالم باشد، می‌توانید بدون پرسش آن را مرجوع یا تعویض کنید.</p>\n<!-- /wp:paragraph --></details>\n<!-- /wp:details -->\n\n<!-- wp:details -->\n<details class=\"wp-block-details\"><summary>پرداخت چطور انجام می‌شود؟</summary><!-- wp:paragraph -->\n<p>پرداخت آنلاین از طریق درگاه امن زرین‌پال با همه‌ی کارت‌های عضو شتاب انجام می‌شود.</p>\n<!-- /wp:paragraph --></details>\n<!-- /wp:details -->\n\n<!-- wp:details -->\n<details class=\"wp-block-details\"><summary>چطور از لباس‌های پشمی نگهداری کنم؟</summary><!-- wp:paragraph -->\n<p>لباس پشمی را تا جای ممکن کم بشویید، با آب سرد و شوینده‌ی مخصوص پشم، و همیشه روی سطح صاف خشک کنید. راهنمای کامل را در مجله‌ی سایه بخوانید.</p>\n<!-- /wp:paragraph --></details>\n<!-- /wp:details -->"
+  },
+  {
+   "slug": "blog",
+   "title": "مجله",
+   "content": "",
+   "role": "blog",
+   "template": ""
+  }
+ ],
+ "posts": [
+  {
+   "slug": "wool-care-guide",
+   "title": "راهنمای نگهداری از لباس‌های پشمی",
+   "image": "coat",
+   "categories": [
+    "نگهداری لباس"
+   ],
+   "tags": [
+    "پشم",
+    "زمستان"
+   ],
+   "excerpt": "پشم اگر درست نگهداری شود، سال‌ها نرم و خوش‌فرم می‌ماند. در این راهنما از شست‌وشو تا انبار کردن در تابستان را مرور می‌کنیم.",
+   "content": "<!-- wp:paragraph -->\n<p>لباس پشمی شاید گران‌تر از لباس‌های مصنوعی باشد، اما اگر درست از آن نگهداری کنید، ده‌ها زمستان همراهتان می‌ماند. خبر خوب این است که پشم ذاتاً لباسی کم‌توقع است: بو نمی‌گیرد، چروک نمی‌شود و بیشتر از آن‌چه فکر می‌کنید به شست‌وشو نیاز ندارد.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\">کمتر بشویید</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>الیاف پشم پوشش طبیعی چربی‌مانندی به نام لانولین دارند که جلوی جذب بو و لک را می‌گیرد. در بیشتر موارد کافی است پالتو یا بافت را بعد از پوشیدن یک شب در هوای آزاد آویزان کنید. برای یک بافت که مستقیم روی پوست نمی‌پوشید، هر پنج تا شش بار پوشیدن یک شست‌وشو کافی است.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\">اگر شستید، با آب سرد</h2>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li>از شوینده‌ی مخصوص پشم یا شامپوی ملایم استفاده کنید.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>لباس را برای ۱۰ دقیقه در آب سرد بخیسانید و فقط آرام فشار دهید؛ هرگز چنگ نزنید.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>آب را با پیچیدن لباس داخل حوله بگیرید، نه با چلاندن.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>روی سطح صاف و دور از آفتاب و بخاری خشک کنید تا کش نیاید.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><!-- wp:paragraph -->\n<p>پشم را آویزان نکنید؛ وزن آب و خود لباس، سرشانه‌ها را برای همیشه کش می‌دهد.</p>\n<!-- /wp:paragraph --></blockquote>\n<!-- /wp:quote -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\">پرزها را جدی بگیرید</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>پرز گرفتن نشانه‌ی کیفیت پایین نیست؛ در نقاطی که اصطکاک بیشتری دارند، طبیعی است. یک شانه‌ی مخصوص پرز یا ماشین پرزگیر کوچک، لباس را در چند دقیقه مثل روز اول می‌کند.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\">نگهداری در تابستان</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>قبل از جمع کردن لباس‌های زمستانی، آن‌ها را تمیز کنید؛ بید جذب لکه‌های غذا و عرق می‌شود. بافت‌ها را تاشده در کیسه‌ی پارچه‌ای بگذارید و چند تکه چوب سدر یا کیسه‌ی اسطوخودوس کنارشان قرار دهید. پالتوها را روی چوب‌لباسی پهن و داخل کاور پارچه‌ای نگه دارید.</p>\n<!-- /wp:paragraph -->"
+  },
+  {
+   "slug": "capsule-wardrobe-winter",
+   "title": "کمد لباس کپسولی: ده تکه برای تمام زمستان",
+   "image": "knit",
+   "categories": [
+    "سبک زندگی"
+   ],
+   "tags": [
+    "کمد کپسولی",
+    "مینیمال"
+   ],
+   "excerpt": "با ده تکه‌ی درست می‌شود یک زمستان کامل را خوش‌پوش گذراند. فهرست ما و چند قاعده‌ی ساده برای ساختن کمد کپسولی.",
+   "content": "<!-- wp:paragraph -->\n<p>کمد کپسولی یعنی تعداد کمی لباس که همه با هم هماهنگ‌اند. نتیجه، صبح‌هایی آرام‌تر، خریدهای کمتر و سبکی است که به‌جای دنبال کردن مد، از شما می‌آید.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\">سه قاعده‌ی ساده</h2>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>پالت محدود:</strong> دو یا سه رنگ پایه (مثلاً مشکی، کرم و کاراملی) و حداکثر یک رنگ تأکیدی.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li><strong>کیفیت پیش از تعداد:</strong> هر تکه باید آن‌قدر خوب باشد که بخواهید هفته‌ای چند بار بپوشیدش.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li><strong>هر لباس، سه ترکیب:</strong> اگر تکه‌ای با حداقل سه لباس دیگر کمدتان جور نمی‌شود، نخریدش.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\">فهرست ده‌تایی ما برای زمستان</h2>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li>یک پالتوی بلند پشمی در رنگ خنثی</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>یک کاپشن پافر کوتاه برای روزهای بارانی</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>دو بافت یقه‌گرد، یکی روشن و یکی تیره</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>دو پیراهن نخی، سفید و آبی روشن</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>یک شلوار پارچه‌ای گشاد مشکی</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>یک شلوار جین ساده</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>یک کیف چرمی جادار</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li>یک جفت بوت چرمی</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><!-- wp:paragraph -->\n<p>لباس کمتر، انتخاب بهتر؛ این خلاصه‌ی فلسفه‌ی سایه است.</p>\n<!-- /wp:paragraph --></blockquote>\n<!-- /wp:quote -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\">از کجا شروع کنیم؟</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>کمدتان را خالی کنید و فقط لباس‌هایی را برگردانید که در یک ماه گذشته پوشیده‌اید. حالا ببینید چه چیزی کم است. اغلب متوجه می‌شوید که به جای ده لباس تازه، فقط به دو یا سه تکه‌ی خوب نیاز دارید.</p>\n<!-- /wp:paragraph -->"
+  },
+  {
+   "slug": "how-to-choose-size-online",
+   "title": "چطور سایز درست را آنلاین انتخاب کنیم",
+   "image": "trousers",
+   "categories": [
+    "راهنمای خرید"
+   ],
+   "tags": [
+    "سایز",
+    "خرید آنلاین"
+   ],
+   "excerpt": "بیشتر مرجوعی‌های خرید آنلاین به خاطر سایز است. با یک متر خیاطی و پنج دقیقه وقت، این مشکل تقریباً حل می‌شود.",
+   "content": "<!-- wp:paragraph -->\n<p>خرید لباس از اینترنت راحت است، تا وقتی که بسته را باز می‌کنید و می‌بینید لباس تنگ یا گشاد است. خوشبختانه با چند اندازه‌گیری ساده، می‌توانید با اطمینان سفارش بدهید.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\">سه اندازه‌ای که باید بدانید</h2>\n<!-- /wp:heading -->\n\n<!-- wp:list -->\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\n<li><strong>دور سینه:</strong> متر را زیر بغل و دور پهن‌ترین قسمت سینه بگیرید.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li><strong>دور کمر:</strong> باریک‌ترین قسمت بالای ناف را اندازه بگیرید.</li>\n<!-- /wp:list-item --><!-- wp:list-item -->\n<li><strong>دور باسن:</strong> پهن‌ترین قسمت باسن، با پاهای جفت.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>متر را نه سفت و نه شل بگیرید؛ باید یک انگشت راحت زیرش جا شود. عددها را یادداشت کنید و با جدول «راهنمای سایز» در صفحه‌ی هر محصول مقایسه کنید.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\">به برش لباس توجه کنید</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>در توضیحات محصول ببینید لباس «اورسایز»، «جذب» یا «معمولی» است. پیراهن اورسایز سایه را اگر می‌خواهید کمتر گشاد باشد، یک سایز کوچک‌تر بردارید؛ اما پالتو را که روی بافت می‌پوشید، با سایز همیشگی سفارش دهید.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\">اگر بین دو سایز بودید</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>برای لباس‌های بیرونی مثل پالتو و کاپشن، سایز بزرگ‌تر انتخاب امن‌تری است. برای شلوار، دور کمر را ملاک قرار دهید؛ قد شلوار را همیشه می‌شود کوتاه کرد. و اگر باز هم مطمئن نبودید، تا ۷ روز فرصت تعویض رایگان دارید.</p>\n<!-- /wp:paragraph -->"
+  }
+ ],
+ "menus": [
+  {
+   "location": "primary",
+   "name": "منوی اصلی",
+   "items": [
+    {
+     "type": "page",
+     "ref": "home"
+    },
+    {
+     "type": "shop"
+    },
+    {
+     "type": "product_cat",
+     "ref": "coats"
+    },
+    {
+     "type": "product_cat",
+     "ref": "knitwear"
+    },
+    {
+     "type": "page",
+     "ref": "blog"
+    },
+    {
+     "type": "page",
+     "ref": "about"
+    }
+   ]
+  },
+  {
+   "location": "footer",
+   "name": "فروشگاه",
+   "items": [
+    {
+     "type": "product_cat",
+     "ref": "coats"
+    },
+    {
+     "type": "product_cat",
+     "ref": "knitwear"
+    },
+    {
+     "type": "product_cat",
+     "ref": "trousers"
+    },
+    {
+     "type": "product_cat",
+     "ref": "shirts"
+    },
+    {
+     "type": "product_cat",
+     "ref": "accessories"
+    }
+   ]
+  },
+  {
+   "location": "footer2",
+   "name": "راهنما",
+   "items": [
+    {
+     "type": "page",
+     "ref": "about"
+    },
+    {
+     "type": "page",
+     "ref": "contact"
+    },
+    {
+     "type": "page",
+     "ref": "faq"
+    },
+    {
+     "type": "page",
+     "ref": "my-account"
+    },
+    {
+     "type": "page",
+     "ref": "wishlist"
+    }
+   ]
+  }
+ ],
+ "coupons": [
+  {
+   "code": "SAYEH10",
+   "discount_type": "percent",
+   "amount": 10,
+   "description": "۱۰٪ تخفیف دمو برای همه‌ی محصولات"
+  }
+ ],
+ "theme_mods": {
+  "saayeh_hero_image": "@image:hero",
+  "saayeh_hero_eyebrow": "کالکشن زمستان ۱۴۰۵",
+  "saayeh_hero_title": "سادگی، امضای توست",
+  "saayeh_hero_subtitle": "لباس‌هایی آرام و ماندگار، از پارچه‌های طبیعی.",
+  "saayeh_hero_cta_text": "خرید کالکشن زمستان",
+  "saayeh_editorial_image": "@image:knit",
+  "saayeh_editorial_eyebrow": "ساخت دست",
+  "saayeh_editorial_title": "هر رج، با حوصله",
+  "saayeh_editorial_text": "بافت‌های سایه را بافنده‌های محلی با نخ پشم مرینو و طی چند روز می‌بافند. نتیجه، لباسی است که با هر بار پوشیدن نرم‌تر می‌شود و سال‌ها می‌ماند.",
+  "saayeh_editorial_cta_text": "مشاهده فروشگاه",
+  "saayeh_announcement": "ارسال رایگان برای خریدهای بالای ۳ میلیون تومان",
+  "saayeh_tagline": "پوشاک مینیمال، برای هر روز",
+  "saayeh_free_shipping_threshold": 3000000,
+  "saayeh_accent_color": "#B39B7A",
+  "saayeh_contact_phone": "۰۲۱-۰۰۰۰۰۰۰۰",
+  "saayeh_social_instagram": "https://instagram.com/",
+  "saayeh_social_telegram": "https://t.me/"
+ },
+ "options": {
+  "woocommerce_currency": "IRT",
+  "woocommerce_currency_pos": "right_space",
+  "woocommerce_price_thousand_sep": "٬",
+  "woocommerce_price_decimal_sep": ".",
+  "woocommerce_price_num_decimals": 0,
+  "woocommerce_default_country": "IR:THR",
+  "woocommerce_allowed_countries": "specific",
+  "woocommerce_specific_allowed_countries": [
+   "IR"
+  ],
+  "woocommerce_ship_to_countries": "",
+  "woocommerce_calc_shipping": "yes",
+  "woocommerce_checkout_phone_field": "required",
+  "woocommerce_checkout_company_field": "hidden",
+  "woocommerce_checkout_address_2_field": "optional",
+  "woocommerce_enable_coupons": "yes",
+  "woocommerce_enable_ajax_add_to_cart": "yes",
+  "woocommerce_cart_redirect_after_add": "no",
+  "woocommerce_weight_unit": "kg",
+  "woocommerce_dimension_unit": "cm"
+ },
+ "shipping": {
+  "zone": "ایران",
+  "locations": [
+   "IR"
+  ],
+  "methods": [
+   {
+    "type": "flat_rate",
+    "title": "پست پیشتاز",
+    "cost": 90000
+   },
+   {
+    "type": "free_shipping",
+    "title": "ارسال رایگان",
+    "min_amount": 3000000
+   },
+   {
+    "type": "flat_rate",
+    "title": "پیک تهران",
+    "cost": 150000
+   }
+  ]
+ }
+}

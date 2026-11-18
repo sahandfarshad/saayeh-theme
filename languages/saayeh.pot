@@ -1,0 +1,1506 @@
+# Copyright (C) 2026 Saayeh
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: سایه (Saayeh) 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/saayeh\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-11-18T16:34:23+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: saayeh\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "سایه (Saayeh)"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://example.com/saayeh"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "پوسته‌ی فروشگاهی مینیمال و راست‌چین برای فروشگاه‌های پوشاک با ووکامرس. طراحی آرام با رنگ‌های گرم، تایپوگرافی درشت و فونت وزیرمتن؛ همراه با کشوی سبد خرید، علاقه‌مندی‌ها، جستجوی زنده، تسویه‌حساب مرحله‌ای، فیلدهای ایرانی و درگاه زرین‌پال."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Saayeh"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://example.com"
+msgstr ""
+
+#: 404.php:14
+msgid "این صفحه پیدا نشد"
+msgstr ""
+
+#: 404.php:15
+msgid "شاید آدرس اشتباه است یا صفحه جابه‌جا شده. از جستجو کمک بگیرید."
+msgstr ""
+
+#: 404.php:18
+#: inc/wishlist.php:220
+#: woocommerce/cart/mini-cart.php:156
+msgid "رفتن به فروشگاه"
+msgstr ""
+
+#. translators: %s: count
+#: comments.php:19
+#, php-format
+msgid "%s دیدگاه"
+msgstr ""
+
+#: comments.php:36
+msgid "امکان ثبت دیدگاه بسته شده است."
+msgstr ""
+
+#: comments.php:41
+msgid "دیدگاه خود را بنویسید"
+msgstr ""
+
+#: comments.php:42
+msgid "ارسال دیدگاه"
+msgstr ""
+
+#: footer.php:19
+msgid "پشتیبانی:"
+msgstr ""
+
+#: footer.php:28
+#: inc/setup.php:60
+msgid "منوی فوتر"
+msgstr ""
+
+#: footer.php:39
+msgid "منوی فوتر دوم"
+msgstr ""
+
+#: footer.php:50
+msgid "نمادهای اعتماد"
+msgstr ""
+
+#: footer.php:57
+msgid "جای نماد اعتماد الکترونیکی (اینماد)"
+msgstr ""
+
+#: footer.php:58
+msgid "جای نشان ساماندهی"
+msgstr ""
+
+#. translators: 1: year, 2: site name
+#: footer.php:73
+#, php-format
+msgid "© %1$s %2$s. همه‌ی حقوق محفوظ است."
+msgstr ""
+
+#: footer.php:78
+#: inc/setup.php:62
+msgid "پیوندهای پایین صفحه"
+msgstr ""
+
+#: footer.php:88
+#: footer.php:90
+#: header.php:81
+#: page.php:22
+msgid "سبد خرید"
+msgstr ""
+
+#: footer.php:91
+#: inc/woocommerce.php:633
+msgid "بستن"
+msgstr ""
+
+#: footer.php:97
+#: inc/enqueue.php:33
+#: woocommerce/cart/mini-cart.php:144
+msgid "مشاهده سبد"
+msgstr ""
+
+#: front-page.php:76
+#: inc/woocommerce.php:808
+msgid "دسته‌بندی‌ها"
+msgstr ""
+
+#: front-page.php:77
+msgid "برای هر روز، یک انتخاب درست"
+msgstr ""
+
+#: front-page.php:79
+#: woocommerce/archive-product.php:30
+msgid "همه محصولات"
+msgstr ""
+
+#: front-page.php:118
+msgid "تازه‌ها"
+msgstr ""
+
+#: front-page.php:119
+msgid "تازه‌های این فصل"
+msgstr ""
+
+#: front-page.php:121
+msgid "مشاهده همه"
+msgstr ""
+
+#: front-page.php:167
+msgid "منتخب"
+msgstr ""
+
+#: front-page.php:168
+msgid "انتخاب‌های ماندگار"
+msgstr ""
+
+#: front-page.php:178
+msgid "مزایای خرید"
+msgstr ""
+
+#: front-page.php:198
+#: index.php:15
+msgid "مجله"
+msgstr ""
+
+#: front-page.php:199
+msgid "خواندنی‌های سایه"
+msgstr ""
+
+#: front-page.php:202
+msgid "همه نوشته‌ها"
+msgstr ""
+
+#: front-page.php:222
+msgid "خبرنامه"
+msgstr ""
+
+#: header.php:19
+msgid "رفتن به محتوای اصلی"
+msgstr ""
+
+#: header.php:26
+msgid "اطلاعیه"
+msgstr ""
+
+#: header.php:37
+msgid "منو"
+msgstr ""
+
+#: header.php:43
+#: inc/setup.php:59
+msgid "منوی اصلی"
+msgstr ""
+
+#: header.php:58
+msgid "جستجوی محصولات"
+msgstr ""
+
+#: header.php:59
+#: searchform.php:14
+msgid "جستجو…"
+msgstr ""
+
+#: header.php:64
+#: search.php:15
+#: searchform.php:16
+msgid "جستجو"
+msgstr ""
+
+#: header.php:65
+msgid "نتایج جستجو"
+msgstr ""
+
+#. Template Name of the theme
+#: header.php:70
+#: inc/wishlist.php:304
+#: inc/wishlist.php:308
+#: inc/wishlist.php:318
+#: inc/wishlist.php:330
+#: page-templates/template-wishlist.php:22
+msgid "علاقه‌مندی‌ها"
+msgstr ""
+
+#: header.php:76
+msgid "حساب کاربری من"
+msgstr ""
+
+#: header.php:76
+msgid "ورود یا ثبت‌نام"
+msgstr ""
+
+#: inc/admin.php:15
+#: inc/admin.php:16
+#: inc/admin.php:65
+msgid "مشترکین خبرنامه"
+msgstr ""
+
+#: inc/admin.php:32
+msgid "دسترسی ندارید."
+msgstr ""
+
+#: inc/admin.php:66
+msgid "خروجی CSV"
+msgstr ""
+
+#: inc/admin.php:69
+#: inc/checkout.php:185
+#: inc/forms.php:127
+#: woocommerce/checkout/thankyou.php:67
+msgid "ایمیل"
+msgstr ""
+
+#: inc/admin.php:69
+msgid "تاریخ عضویت"
+msgstr ""
+
+#: inc/admin.php:72
+msgid "هنوز کسی عضو نشده است."
+msgstr ""
+
+#: inc/admin.php:81
+#: inc/wishlist.php:253
+#: woocommerce/cart/mini-cart.php:76
+msgid "حذف"
+msgstr ""
+
+#: inc/admin.php:106
+msgid "پوسته سایه برای فروشگاه به افزونه ووکامرس نیاز دارد."
+msgstr ""
+
+#: inc/admin.php:108
+msgid "نصب ووکامرس"
+msgstr ""
+
+#: inc/admin.php:114
+msgid "برای راه‌اندازی سریع، افزونه «درون‌ریزی دمو سایه» را نصب کنید تا محصولات، صفحات و تنظیمات نمونه با یک کلیک ساخته شوند."
+msgstr ""
+
+#: inc/admin.php:116
+msgid "دیگر نشان نده"
+msgstr ""
+
+#: inc/checkout.php:84
+#: inc/forms.php:95
+msgid "نام"
+msgstr ""
+
+#: inc/checkout.php:86
+msgid "نام خانوادگی"
+msgstr ""
+
+#: inc/checkout.php:89
+msgid "کشور"
+msgstr ""
+
+#: inc/checkout.php:92
+#: inc/checkout.php:163
+msgid "استان"
+msgstr ""
+
+#: inc/checkout.php:97
+#: inc/checkout.php:164
+msgid "شهر"
+msgstr ""
+
+#: inc/checkout.php:101
+#: inc/checkout.php:165
+msgid "آدرس کامل"
+msgstr ""
+
+#: inc/checkout.php:102
+msgid "خیابان، کوچه، پلاک"
+msgstr ""
+
+#: inc/checkout.php:107
+msgid "واحد / طبقه"
+msgstr ""
+
+#: inc/checkout.php:109
+msgid "واحد، طبقه (اختیاری)"
+msgstr ""
+
+#: inc/checkout.php:119
+#: inc/checkout.php:167
+msgid "کد پستی ۱۰ رقمی"
+msgstr ""
+
+#: inc/checkout.php:139
+#: inc/checkout.php:168
+msgid "شماره موبایل"
+msgstr ""
+
+#: inc/checkout.php:203
+msgid "توضیحات سفارش"
+msgstr ""
+
+#: inc/checkout.php:204
+msgid "مثلاً زمان مناسب برای تحویل (اختیاری)"
+msgstr ""
+
+#: inc/checkout.php:241
+msgid "<strong>شماره موبایل</strong> باید ۱۱ رقم و با ۰۹ شروع شود."
+msgstr ""
+
+#: inc/checkout.php:249
+msgid "<strong>کد پستی</strong> باید دقیقاً ۱۰ رقم باشد."
+msgstr ""
+
+#: inc/checkout.php:267
+#: inc/enqueue.php:46
+msgid "کد پستی باید دقیقاً ۱۰ رقم باشد."
+msgstr ""
+
+#: inc/checkout.php:273
+#: inc/enqueue.php:45
+msgid "شماره موبایل باید ۱۱ رقم و با ۰۹ شروع شود."
+msgstr ""
+
+#: inc/checkout.php:352
+#: inc/woocommerce.php:465
+msgid "مشخصات"
+msgstr ""
+
+#: inc/checkout.php:353
+msgid "آدرس"
+msgstr ""
+
+#: inc/checkout.php:354
+msgid "ارسال"
+msgstr ""
+
+#: inc/checkout.php:355
+msgid "پرداخت"
+msgstr ""
+
+#: inc/checkout.php:357
+msgid "مراحل خرید"
+msgstr ""
+
+#: inc/checkout.php:378
+msgid "ثبت سفارش و پرداخت"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "ارسال رایگان برای خریدهای بالای ۳ میلیون تومان"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "پوشاک مینیمال، برای هر روز"
+msgstr ""
+
+#: inc/customizer.php:26
+msgid "کالکشن زمستان ۱۴۰۵"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "سادگی، امضای توست"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "لباس‌هایی آرام و ماندگار، از پارچه‌های طبیعی."
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "خرید کالکشن زمستان"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "ساخت دست"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "هر رج، با حوصله"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "بافت‌های سایه را بافنده‌های محلی با نخ پشم مرینو و طی چند روز می‌بافند. نتیجه، لباسی است که با هر بار پوشیدن نرم‌تر می‌شود و سال‌ها می‌ماند."
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "مشاهده بافت"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "ارسال سریع"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "تحویل ۲ تا ۴ روز کاری"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "۷ روز ضمانت بازگشت"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "بدون پرسش"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "پرداخت امن"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "درگاه بانکی معتبر"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "پشتیبانی"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "هر روز، ۹ تا ۲۱"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "اول از همه باخبر شوید"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "کالکشن‌های تازه و فروش‌های ویژه، ماهی یک‌بار."
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "سایه از یک کارگاه کوچک در تهران شروع شد؛ با این باور که کمد لباس خوب از چند تکه‌ی درست ساخته می‌شود."
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "تنظیمات پوسته سایه"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "عمومی و رنگ"
+msgstr ""
+
+#: inc/customizer.php:179
+msgid "رنگ تأکیدی (شنی)"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "شعار کنار لوگو"
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "متن نوار اعلان بالای صفحه"
+msgstr ""
+
+#: inc/customizer.php:182
+msgid "لینک نوار اعلان (اختیاری)"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "حد ارسال رایگان برای نوار پیشرفت (تومان، صفر = پنهان)"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "اجبار راست‌چین حتی اگر زبان سایت فارسی نباشد"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "نمایش اعداد فارسی در قیمت‌ها"
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "بخش اصلی صفحه نخست (هیرو)"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "تصویر هیرو"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "متن کوچک بالای عنوان"
+msgstr ""
+
+#: inc/customizer.php:191
+#: inc/customizer.php:209
+#: inc/gateways/class-saayeh-zarinpal.php:91
+msgid "عنوان"
+msgstr ""
+
+#: inc/customizer.php:192
+msgid "زیرعنوان"
+msgstr ""
+
+#: inc/customizer.php:193
+#: inc/customizer.php:211
+msgid "متن دکمه"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "لینک دکمه (خالی = فروشگاه)"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "بخش‌های صفحه نخست"
+msgstr ""
+
+#: inc/customizer.php:198
+msgid "نمایش دسته‌بندی‌ها"
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "تعداد محصولات تازه"
+msgstr ""
+
+#: inc/customizer.php:200
+msgid "نمایش محصولات منتخب (ویژه)"
+msgstr ""
+
+#: inc/customizer.php:201
+msgid "نمایش آخرین نوشته‌های وبلاگ"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "عنوان خبرنامه"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "متن خبرنامه"
+msgstr ""
+
+#: inc/customizer.php:206
+msgid "بخش روایت (تصویر و متن)"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "تصویر"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "متن کوچک"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "متن"
+msgstr ""
+
+#: inc/customizer.php:212
+msgid "لینک دکمه"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "نوار اعتماد"
+msgstr ""
+
+#. translators: %d: item number
+#: inc/customizer.php:218
+#, php-format
+msgid "مورد %d - عنوان"
+msgstr ""
+
+#. translators: %d: item number
+#: inc/customizer.php:220
+#, php-format
+msgid "مورد %d - توضیح"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "شبکه‌های اجتماعی"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "فوتر و نمادها"
+msgstr ""
+
+#: inc/customizer.php:231
+msgid "متن کوتاه درباره فروشگاه"
+msgstr ""
+
+#: inc/customizer.php:232
+msgid "کد نماد اعتماد (اینماد، ساماندهی) - فقط تگ‌های a و img"
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "متن کپی‌رایت (خالی = پیش‌فرض)"
+msgstr ""
+
+#: inc/customizer.php:234
+msgid "ایمیل دریافت پیام‌های فرم تماس (خالی = ایمیل مدیر)"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "تلفن پشتیبانی"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "اینستاگرام"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "تلگرام"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "واتس‌اپ"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "ایکس (توییتر)"
+msgstr ""
+
+#: inc/customizer.php:250
+msgid "لینکدین"
+msgstr ""
+
+#: inc/customizer.php:251
+msgid "یوتیوب"
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "آپارات"
+msgstr ""
+
+#. translators: %s: product name
+#: inc/enqueue.php:32
+#, php-format
+msgid "%s به سبد اضافه شد"
+msgstr ""
+
+#. translators: %s: product name
+#: inc/enqueue.php:35
+#, php-format
+msgid "%s به علاقه‌مندی‌ها اضافه شد"
+msgstr ""
+
+#. translators: %s: product name
+#: inc/enqueue.php:37
+#, php-format
+msgid "%s از علاقه‌مندی‌ها حذف شد"
+msgstr ""
+
+#: inc/enqueue.php:38
+#: inc/wishlist.php:111
+msgid "افزودن به علاقه‌مندی‌ها"
+msgstr ""
+
+#: inc/enqueue.php:39
+#: inc/wishlist.php:111
+msgid "حذف از علاقه‌مندی‌ها"
+msgstr ""
+
+#: inc/enqueue.php:40
+msgid "خطایی رخ داد؛ لطفاً دوباره تلاش کنید."
+msgstr ""
+
+#: inc/enqueue.php:41
+msgid "لطفاً اول سایز و رنگ را انتخاب کنید."
+msgstr ""
+
+#: inc/enqueue.php:42
+msgid "محصولی پیدا نشد."
+msgstr ""
+
+#: inc/enqueue.php:43
+msgid "مشاهده همه نتایج"
+msgstr ""
+
+#: inc/enqueue.php:44
+#: inc/forms.php:133
+#: inc/forms.php:169
+msgid "لطفاً یک ایمیل معتبر وارد کنید."
+msgstr ""
+
+#: inc/enqueue.php:47
+#: inc/wishlist.php:239
+#: inc/woocommerce.php:171
+msgid "ناموجود"
+msgstr ""
+
+#: inc/enqueue.php:48
+msgid "کد تخفیف را وارد کنید."
+msgstr ""
+
+#: inc/forms.php:25
+msgid "پیام شما دریافت شد. به‌زودی پاسخ می‌دهیم."
+msgstr ""
+
+#: inc/forms.php:27
+msgid "لطفاً نام، ایمیل یا موبایل معتبر و متن پیام را وارد کنید."
+msgstr ""
+
+#: inc/forms.php:29
+msgid "ارسال پیام انجام نشد. لطفاً بعداً دوباره تلاش کنید."
+msgstr ""
+
+#: inc/forms.php:35
+msgid "نام و نام خانوادگی"
+msgstr ""
+
+#: inc/forms.php:39
+msgid "ایمیل یا شماره موبایل"
+msgstr ""
+
+#: inc/forms.php:43
+msgid "موضوع"
+msgstr ""
+
+#: inc/forms.php:47
+msgid "پیام"
+msgstr ""
+
+#: inc/forms.php:51
+msgid "این فیلد را خالی بگذارید"
+msgstr ""
+
+#: inc/forms.php:54
+msgid "ارسال پیام"
+msgstr ""
+
+#. translators: 1: site name, 2: subject
+#: inc/forms.php:92
+#, php-format
+msgid "[%1$s] پیام تازه از فرم تماس: %2$s"
+msgstr ""
+
+#. translators: 1: site name, 2: subject
+#: inc/forms.php:92
+msgid "بدون موضوع"
+msgstr ""
+
+#: inc/forms.php:97
+msgid "راه ارتباطی"
+msgstr ""
+
+#: inc/forms.php:128
+msgid "ایمیل شما"
+msgstr ""
+
+#: inc/forms.php:129
+msgid "عضویت"
+msgstr ""
+
+#: inc/forms.php:133
+#: inc/forms.php:173
+msgid "عضویت شما ثبت شد. ممنون!"
+msgstr ""
+
+#: inc/forms.php:173
+msgid "این ایمیل قبلاً عضو خبرنامه شده است."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:58
+msgid "زرین‌پال"
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:59
+msgid "پرداخت آنلاین با همه‌ی کارت‌های عضو شتاب از طریق درگاه زرین‌پال (API نسخه ۴)."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:85
+msgid "فعال‌سازی"
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:87
+msgid "فعال کردن درگاه زرین‌پال"
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:93
+msgid "عنوانی که مشتری هنگام پرداخت می‌بیند."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:94
+msgid "درگاه بانکی (زرین‌پال)"
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:98
+#: inc/woocommerce.php:462
+msgid "توضیحات"
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:100
+msgid "پرداخت آنلاین با همه‌ی کارت‌های عضو شتاب."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:103
+msgid "مرچنت کد"
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:105
+msgid "کد ۳۶ کاراکتری درگاه که در پنل زرین‌پال (بخش درگاه‌ها) دریافت می‌کنید. در حالت آزمایشی هر شناسه‌ی ۳۶ کاراکتری (UUID) پذیرفته می‌شود."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:111
+msgid "حالت آزمایشی (سندباکس)"
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:113
+msgid "استفاده از sandbox.zarinpal.com برای تست؛ هیچ پولی جابه‌جا نمی‌شود."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:117
+msgid "گزارش خطا"
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:119
+msgid "ثبت درخواست‌ها و پاسخ‌ها در گزارش ووکامرس (وضعیت → گزارش‌ها)"
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:145
+msgid "زرین‌پال فقط با واحد پول تومان (IRT) یا ریال (IRR) کار می‌کند. واحد پول فروشگاه را در تنظیمات ووکامرس تغییر دهید."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:240
+msgid "ارتباط با درگاه زرین‌پال برقرار نشد. لطفاً چند لحظه بعد دوباره تلاش کنید."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:270
+msgid "اطلاعات ارسال‌شده به درگاه معتبر نیست (خطای اعتبارسنجی)."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:271
+msgid "آی‌پی یا مرچنت کد پذیرنده صحیح نیست."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:272
+msgid "مرچنت کد فعال نیست؛ با پشتیبانی زرین‌پال تماس بگیرید."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:273
+msgid "تلاش‌های بیش از حد در مدت کوتاه؛ کمی بعد دوباره تلاش کنید."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:274
+msgid "درگاه پرداخت به حالت تعلیق درآمده است."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:275
+msgid "سطح تأیید پذیرنده پایین‌تر از سطح نقره‌ای است."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:276
+msgid "محدودیت پذیرنده در سطح آبی."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:277
+msgid "پذیرنده اجازه‌ی دسترسی به سرویس تسویه اشتراکی شناور را ندارد."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:278
+msgid "حساب بانکی تسویه را به پنل اضافه کنید."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:279
+msgid "درصدهای واردشده صحیح نیست."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:280
+msgid "مبلغ از کل تراکنش بیشتر است."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:281
+msgid "تعداد افراد دریافت‌کننده تسهیم بیش از حد مجاز است."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:282
+msgid "پارامترهای اضافی نامعتبر است."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:283
+msgid "مبلغ پرداخت‌شده با مبلغ سفارش یکسان نیست."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:284
+msgid "پرداخت ناموفق بود."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:285
+msgid "خطای غیرمنتظره در درگاه؛ با پشتیبانی تماس بگیرید."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:286
+msgid "این پرداخت متعلق به این پذیرنده نیست."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:287
+msgid "شناسه‌ی پرداخت (Authority) نامعتبر است."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:288
+msgid "تراکنش مورد نظر یافت نشد."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:289
+msgid "این تراکنش قبلاً تأیید شده است."
+msgstr ""
+
+#. translators: 1: code, 2: message
+#: inc/gateways/class-saayeh-zarinpal.php:296
+#, php-format
+msgid "خطای درگاه (%1$s): %2$s"
+msgstr ""
+
+#. translators: %s: code
+#: inc/gateways/class-saayeh-zarinpal.php:299
+#, php-format
+msgid "خطای ناشناخته از درگاه (کد %s)."
+msgstr ""
+
+#. translators: %s: code
+#: inc/gateways/class-saayeh-zarinpal.php:299
+msgid "پاسخ نامعتبر از درگاه دریافت شد."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:311
+msgid "سفارش پیدا نشد."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:317
+msgid "حداقل مبلغ قابل پرداخت با زرین‌پال ۱۰۰۰ تومان است."
+msgstr ""
+
+#. translators: 1: order id, 2: site name
+#: inc/gateways/class-saayeh-zarinpal.php:338
+#, php-format
+msgid "پرداخت سفارش %1$s - %2$s"
+msgstr ""
+
+#. translators: %s: authority
+#: inc/gateways/class-saayeh-zarinpal.php:364
+#, php-format
+msgid "انتقال مشتری به زرین‌پال. شناسه پرداخت (Authority): %s"
+msgstr ""
+
+#. translators: %s: error
+#: inc/gateways/class-saayeh-zarinpal.php:374
+#, php-format
+msgid "خطا در ایجاد تراکنش زرین‌پال: %s"
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:392
+msgid "سفارش معتبر نیست."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:405
+msgid "شناسه پرداخت با سفارش هم‌خوانی ندارد."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:409
+msgid "پرداخت توسط مشتری لغو شد یا ناموفق بود (Status=NOK)."
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:410
+msgid "پرداخت لغو شد یا ناموفق بود. می‌توانید دوباره تلاش کنید یا روش پرداخت دیگری را انتخاب کنید."
+msgstr ""
+
+#. translators: 1: ref id, 2: card, 3: code
+#: inc/gateways/class-saayeh-zarinpal.php:439
+#, php-format
+msgid "پرداخت زرین‌پال موفق بود. کد پیگیری: %1$s | کارت: %2$s | کد پاسخ: %3$s"
+msgstr ""
+
+#. translators: %s: error
+#: inc/gateways/class-saayeh-zarinpal.php:456
+#, php-format
+msgid "تأیید پرداخت زرین‌پال ناموفق بود: %s"
+msgstr ""
+
+#: inc/gateways/class-saayeh-zarinpal.php:485
+msgid "کد پیگیری پرداخت:"
+msgstr ""
+
+#: inc/product-meta.php:17
+msgid "برچسب کارت محصول"
+msgstr ""
+
+#: inc/product-meta.php:18
+msgid "مثلاً: جدید، پرفروش"
+msgstr ""
+
+#: inc/product-meta.php:20
+msgid "متن کوتاهی که روی تصویر محصول نمایش داده می‌شود. برای محصولات حراج، خالی بگذارید تا «تخفیف» نمایش داده شود."
+msgstr ""
+
+#: inc/product-meta.php:71
+#: inc/product-meta.php:87
+msgid "کد رنگ نمونه"
+msgstr ""
+
+#: inc/product-meta.php:73
+msgid "این رنگ به‌صورت دایره‌ی انتخاب رنگ در صفحه محصول نمایش داده می‌شود."
+msgstr ""
+
+#: inc/product-meta.php:124
+msgid "رنگ"
+msgstr ""
+
+#: inc/setup.php:61
+msgid "منوی فوتر (ستون دوم)"
+msgstr ""
+
+#: inc/setup.php:78
+msgid "ابزارک‌های وبلاگ"
+msgstr ""
+
+#: inc/setup.php:79
+msgid "فوتر - ستون ۱"
+msgstr ""
+
+#: inc/setup.php:80
+msgid "فوتر - ستون ۲"
+msgstr ""
+
+#: inc/setup.php:81
+msgid "فوتر - ستون ۳"
+msgstr ""
+
+#: inc/template-tags.php:120
+msgid "قبلی"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgid "بعدی"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "صفحه‌بندی نوشته‌ها"
+msgstr ""
+
+#: inc/template-tags.php:143
+#: inc/woocommerce.php:52
+msgid "خانه"
+msgstr ""
+
+#: inc/template-tags.php:145
+#: woocommerce/archive-product.php:22
+msgid "فروشگاه"
+msgstr ""
+
+#: inc/wishlist.php:132
+msgid "محصول معتبر نیست."
+msgstr ""
+
+#: inc/wishlist.php:209
+msgid "برای استفاده از علاقه‌مندی‌ها، ووکامرس را فعال کنید."
+msgstr ""
+
+#: inc/wishlist.php:218
+msgid "فهرست علاقه‌مندی‌های شما خالی است"
+msgstr ""
+
+#: inc/wishlist.php:219
+msgid "با زدن قلب روی هر محصول، آن را اینجا نگه دارید."
+msgstr ""
+
+#: inc/wishlist.php:241
+msgid "انتخاب سایز"
+msgstr ""
+
+#: inc/wishlist.php:255
+#: inc/woocommerce.php:131
+#: inc/woocommerce.php:353
+msgid "افزودن به سبد"
+msgstr ""
+
+#: inc/wishlist.php:257
+msgid "مشاهده"
+msgstr ""
+
+#: inc/woocommerce.php:50
+msgid "مسیر صفحه"
+msgstr ""
+
+#: inc/woocommerce.php:96
+msgid "شاید بپسندید"
+msgstr ""
+
+#: inc/woocommerce.php:108
+#: inc/woocommerce.php:857
+msgid "پیش‌فرض"
+msgstr ""
+
+#: inc/woocommerce.php:109
+#: inc/woocommerce.php:858
+msgid "پرفروش‌ترین"
+msgstr ""
+
+#: inc/woocommerce.php:110
+#: inc/woocommerce.php:859
+msgid "بیشترین امتیاز"
+msgstr ""
+
+#: inc/woocommerce.php:111
+#: inc/woocommerce.php:860
+msgid "جدیدترین"
+msgstr ""
+
+#: inc/woocommerce.php:112
+#: inc/woocommerce.php:861
+msgid "ارزان‌ترین"
+msgstr ""
+
+#: inc/woocommerce.php:113
+#: inc/woocommerce.php:862
+msgid "گران‌ترین"
+msgstr ""
+
+#: inc/woocommerce.php:174
+msgid "تخفیف"
+msgstr ""
+
+#: inc/woocommerce.php:265
+msgid "تک‌سایز"
+msgstr ""
+
+#: inc/woocommerce.php:356
+msgid "افزودن سریع:"
+msgstr ""
+
+#. translators: %s: size
+#: inc/woocommerce.php:360
+#, php-format
+msgid "افزودن سایز %s"
+msgstr ""
+
+#. translators: %s: size
+#: inc/woocommerce.php:371
+#, php-format
+msgid "%s ناموجود"
+msgstr ""
+
+#. translators: %s: count
+#: inc/woocommerce.php:471
+#, php-format
+msgid "نظرات (%s)"
+msgstr ""
+
+#: inc/woocommerce.php:474
+msgid "ارسال و مرجوعی"
+msgstr ""
+
+#: inc/woocommerce.php:487
+msgid "ارسال با پست پیشتاز در ۲ تا ۴ روز کاری و با پیک در تهران همان روز یا روز بعد انجام می‌شود."
+msgstr ""
+
+#. translators: %s: amount
+#: inc/woocommerce.php:490
+#, php-format
+msgid "برای خریدهای بالای %s ارسال رایگان است."
+msgstr ""
+
+#: inc/woocommerce.php:492
+msgid "تا ۷ روز پس از تحویل می‌توانید کالا را بدون پرسش مرجوع کنید."
+msgstr ""
+
+#: inc/woocommerce.php:500
+#: woocommerce/cart/mini-cart.php:63
+msgid "کاهش"
+msgstr ""
+
+#: inc/woocommerce.php:506
+#: woocommerce/cart/mini-cart.php:61
+msgid "افزایش"
+msgstr ""
+
+#. translators: %s: attribute name
+#: inc/woocommerce.php:568
+#, php-format
+msgid "انتخاب %s"
+msgstr ""
+
+#: inc/woocommerce.php:591
+#: inc/woocommerce.php:632
+msgid "راهنمای سایز"
+msgstr ""
+
+#: inc/woocommerce.php:608
+#: inc/woocommerce.php:618
+msgid "سایز"
+msgstr ""
+
+#: inc/woocommerce.php:608
+msgid "دور سینه"
+msgstr ""
+
+#: inc/woocommerce.php:608
+#: inc/woocommerce.php:618
+msgid "دور کمر"
+msgstr ""
+
+#: inc/woocommerce.php:608
+msgid "قد لباس"
+msgstr ""
+
+#: inc/woocommerce.php:616
+msgid "شلوار (سایز اروپایی)"
+msgstr ""
+
+#: inc/woocommerce.php:618
+msgid "دور باسن"
+msgstr ""
+
+#: inc/woocommerce.php:626
+msgid "اندازه‌ها به سانتی‌متر و بر اساس اندازه‌ی بدن است. اگر بین دو سایز هستید، سایز بزرگ‌تر را انتخاب کنید."
+msgstr ""
+
+#. translators: %s: amount left
+#: inc/woocommerce.php:675
+#, php-format
+msgid "%s تا ارسال رایگان"
+msgstr ""
+
+#: inc/woocommerce.php:677
+msgid "ارسال شما رایگان است"
+msgstr ""
+
+#: inc/woocommerce.php:693
+msgid "این کالا در سبد نیست."
+msgstr ""
+
+#: inc/woocommerce.php:704
+msgid "موجودی این کالا کافی نیست."
+msgstr ""
+
+#: inc/woocommerce.php:814
+msgid "همه"
+msgstr ""
+
+#: inc/woocommerce.php:873
+msgid "فیلترها"
+msgstr ""
+
+#: inc/woocommerce.php:875
+msgid "مرتب‌سازی:"
+msgstr ""
+
+#: inc/woocommerce.php:883
+msgid "فیلتر محصولات"
+msgstr ""
+
+#: inc/woocommerce.php:913
+msgid "محدوده قیمت (تومان)"
+msgstr ""
+
+#: inc/woocommerce.php:915
+msgid "حداقل قیمت"
+msgstr ""
+
+#: inc/woocommerce.php:916
+msgid "از"
+msgstr ""
+
+#: inc/woocommerce.php:918
+msgid "حداکثر قیمت"
+msgstr ""
+
+#: inc/woocommerce.php:919
+msgid "تا"
+msgstr ""
+
+#: inc/woocommerce.php:923
+msgid "اعمال فیلترها"
+msgstr ""
+
+#: inc/woocommerce.php:925
+msgid "حذف همه فیلترها"
+msgstr ""
+
+#: inc/woocommerce.php:936
+msgid "محصولی با این مشخصات پیدا نشد."
+msgstr ""
+
+#: inc/woocommerce.php:937
+msgid "دیدن همه محصولات"
+msgstr ""
+
+#: inc/woocommerce.php:954
+msgid "پیشخوان"
+msgstr ""
+
+#: inc/woocommerce.php:955
+msgid "سفارش‌های من"
+msgstr ""
+
+#: inc/woocommerce.php:956
+msgid "دانلودها"
+msgstr ""
+
+#: inc/woocommerce.php:957
+msgid "آدرس‌ها"
+msgstr ""
+
+#: inc/woocommerce.php:958
+msgid "روش‌های پرداخت"
+msgstr ""
+
+#: inc/woocommerce.php:959
+msgid "جزئیات حساب"
+msgstr ""
+
+#: inc/woocommerce.php:960
+msgid "خروج"
+msgstr ""
+
+#: index.php:23
+msgid "نوشته‌ها"
+msgstr ""
+
+#. Template Name of the theme
+msgid "تمام‌عرض"
+msgstr ""
+
+#. translators: %s: number of products
+#: page-templates/template-wishlist.php:28
+#: woocommerce/archive-product.php:42
+#, php-format
+msgid "%s محصول"
+msgstr ""
+
+#: page.php:22
+#: woocommerce/cart/mini-cart.php:145
+#: woocommerce/checkout/form-checkout.php:30
+msgid "تسویه حساب"
+msgstr ""
+
+#: page.php:22
+#: woocommerce/checkout/thankyou.php:36
+msgid "حساب کاربری"
+msgstr ""
+
+#. translators: %s: query
+#: search.php:19
+#: woocommerce/archive-product.php:28
+#, php-format
+msgid "نتایج «%s»"
+msgstr ""
+
+#: searchform.php:13
+msgid "جستجو برای:"
+msgstr ""
+
+#: sidebar.php:11
+msgid "ابزارک‌ها"
+msgstr ""
+
+#: single.php:33
+msgid "صفحات نوشته"
+msgstr ""
+
+#: single.php:52
+msgid "نوشته قبلی"
+msgstr ""
+
+#: single.php:53
+msgid "نوشته بعدی"
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "چیزی پیدا نشد."
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "عبارت دیگری را جستجو کنید."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:60
+msgid "تعداد"
+msgstr ""
+
+#. translators: %s: product name
+#: woocommerce/cart/mini-cart.php:73
+#, php-format
+msgid "حذف %s از سبد"
+msgstr ""
+
+#. translators: %s: coupon code
+#: woocommerce/cart/mini-cart.php:103
+#, php-format
+msgid "کد %s اعمال شد"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:106
+msgid "حذف کد"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:111
+#: woocommerce/cart/mini-cart.php:112
+msgid "کد تخفیف"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:113
+msgid "اعمال"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:120
+msgid "جمع کالاها"
+msgstr ""
+
+#. translators: %s: coupon code
+#: woocommerce/cart/mini-cart.php:126
+#, php-format
+msgid "تخفیف %s"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:132
+msgid "هزینه ارسال"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:132
+msgid "در مرحله بعد محاسبه می‌شود"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:139
+msgid "مبلغ قابل پرداخت"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:154
+msgid "سبد خرید شما خالی است"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:155
+msgid "چیزی هنوز انتخاب نکرده‌اید."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:25
+msgid "برای تسویه حساب باید وارد حساب کاربری خود شوید."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "خلاصه سفارش"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:26
+msgid "پرداخت انجام نشد"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:29
+msgid "متأسفانه بانک یا درگاه پرداخت این تراکنش را رد کرد. لطفاً دوباره تلاش کنید."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+msgid "پرداخت دوباره"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:43
+msgid "سفارش شما ثبت شد"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:45
+msgid "شماره سفارش:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:52
+msgid "تاریخ"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:56
+msgid "مبلغ کل"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:61
+msgid "روش پرداخت"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:79
+msgid "پیگیری سفارش"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:81
+msgid "بازگشت به فروشگاه"
+msgstr ""
